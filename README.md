@@ -4,9 +4,8 @@ Este repositorio contiene un análisis de los precios de viviendas en Barcelona 
 
 ## Archivos
 
-- `analisis_viviendas.ipynb`: Notebook Jupyter con el análisis exploratorio de datos (EDA) y la predicción de precios.
-- `analisis_viviendas.py`: Script Python con el código del análisis.
-- `datos_viviendas.csv`: Conjunto de datos utilizado para el análisis.
+- `Precios_BCN.ipynb`: Notebook Jupyter con el análisis exploratorio de datos (EDA) y la predicción de precios.
+- `Barcelona_Idealista.csv`: Conjunto de datos utilizado para el análisis.
 - `requirements.txt`: Lista de dependencias necesarias para ejecutar el análisis.
 
 ## Requisitos
